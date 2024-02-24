@@ -1,4 +1,6 @@
 # GunRangeUnity
+
+2023.1.13f1
 Gun range with
 
 full movement:WASD, Jump 
@@ -12,4 +14,5 @@ Guns that have: adjustable sliders: reload time, firerate, damage
 
 
 Additional optional tasks:
+ADS mechanic
 vaulting mechanic (just for the knowledge)
